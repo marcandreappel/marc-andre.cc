@@ -19,9 +19,20 @@ body{
 	font-size: 14px;
 	line-height: 18px;
 }
+footer,header,section {
+	margin-left: 40px;
+	width: 720px;
+}
+header {
+	height: 45px;
+	padding-left: 40px;
+	padding-top: 55px;
+	text-align: right;
+}
 header h1 {
-	color:#fff;
-	font-family:"Rock Salt",serif;
+	color: #fff;
+	font-family: "Rock Salt",serif;
+	font-size: 40px;
 }
 header h1 span {
 	
@@ -30,13 +41,28 @@ section {
 	background-color:#fff;
 	border: 2px solid #072f56;
 	border-bottom:none;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
 	padding:20px 20px 0;
+	-moz-border-radius-topleft: 20px;
+	-moz-border-radius-topright: 20px;
+    -webkit-border-radius-topleft: 20px;
+	-webkit-border-radius-topright: 20px;
+    -khtml-border-radius-topleft: 20px;
+	-khtml-border-radius-topright: 20px;
+}
+section h2 {
+	color: #072F56;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+	margin-bottom: 8px;
 }
 section p {
-	
+	margin: 8px 0;
 }
 section ul {
-	
+	list-style-position: inside;
 }
 section ul li span {
 	
@@ -45,8 +71,21 @@ footer {
 	background-color:#fff;
 	border:2px solid #072f56;
 	border-top:none;
-	padding:0 20px 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding:16px 20px 20px;
+	text-align: right;
+	-moz-border-radius-bottomleft: 20px;
+	-moz-border-radius-bottomright: 20px;
+    -webkit-border-radius-bottomleft: 20px;
+	-webkit-border-radius-bottomright: 20px;
+    -khtml-border-radius-bottomleft: 20px;
+	-khtml-border-radius-bottomright: 20px;
 }
 footer p {
-	
+	color: #072F56;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+	margin-right: 60px;
 }
