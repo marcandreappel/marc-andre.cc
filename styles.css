@@ -79,7 +79,8 @@ section ul {
 	list-style-position: inside;
 }
 section ul li span {
-	
+	float: right;
+    width: 580px;
 }
 footer {
 	background-color:#fff;
