@@ -1,3 +1,3 @@
-== marc-andre.cc ==
+=Why marc-andre.cc ?=
 
-In order to be able to work with ''GitHub'', I start using it on my '''personal''' website first; and once I know how to use it correctly, I'll deploy some [http://en.wikipedia.org/wiki/Free_and_open_source_software FOSS] projects.
+In order to be able to work correctly with ''GitHub'', I start using it with my '''personal''' website first; and once I use it correctly, I'll deploy some [http://en.wikipedia.org/wiki/Free_and_open_source_software FOSS] projects.
