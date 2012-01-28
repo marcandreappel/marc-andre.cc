@@ -74,6 +74,9 @@ section h2 {
     font-weight: normal;
 	margin: 20px 0 30px;
 }
+section h3 {
+    margin: 16px 0 8px;
+}
 section p {
 	margin: 8px 0;
 }
@@ -85,6 +88,10 @@ section ol{
 section ul li span {
 	float: right;
     width: 580px;
+}
+section a {
+    color: #072F56;
+    text-decoration: none;
 }
 footer {
 	background-color:#fff;
