@@ -1,0 +1,17 @@
+/* TEAM */
+
+    All-in-One: Marc-André Appel
+
+    Contact: marcandre.appel [at] gmail.com
+    Twitter: @marc_andre
+
+    Location: Trouillas, France.
+
+/* SITE */
+
+    Last update: 2012/01/29
+
+    Standards: HTML5, CSS3, JS
+    Components: HTML5Shiv, jQuery
+
+    Software: PHPStorm3
